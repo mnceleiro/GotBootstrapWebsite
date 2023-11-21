@@ -7,7 +7,6 @@ Texto normal
 - John Snow
 - Hodor
 
-
 ## Título 2
 
 ### Título 3
